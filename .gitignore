@@ -1,0 +1,15 @@
+# Gradle files and cache
+.gradle/
+.kotlin/
+build/
+**/build/
+**/.gradle/
+**/.kotlin/
+
+# OS/IDE specific files
+.DS_Store
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
